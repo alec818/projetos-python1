@@ -1,0 +1,32 @@
+n1 = int(input('digite um número: '))
+print('tabuada de 1 a 20')
+
+print('-------------------------------------------')
+
+print(n1,'x 0 =',n1*0) 
+print(n1,'x 1 =',n1*1)        
+print(n1,'x 2 =',n1*2)   
+print(n1,'x 3 =',n1*3)  
+print(n1,'x 4 =',n1*4)  
+print(n1,'x 5 =',n1*5)   
+print(n1,'x 6 =',n1*6)   
+print(n1,'x 7 =',n1*7)  
+print(n1,'x 8 =',n1*8)  
+print(n1,'x 8 =',n1*8)  
+print(n1,'x 9 =',n1*9) 
+print(n1,'x 10 =',n1*10) 
+
+print('-------------------------------------------')
+
+print (n1,'x 11 =',n1*11)
+print (n1,'x 12 =',n1*12)
+print (n1,'x 13 =',n1*13)
+print (n1,'x 14 =',n1*14)
+print (n1,'x 15 =',n1*15)
+print (n1,'x 16 =',n1*16)
+print (n1,'x 17 =',n1*17)
+print (n1,'x 18 =',n1*18)
+print (n1,'x 19 =',n1*19)
+print (n1,'x 20 =',n1*20)
+
+print('-------------------------------------------')

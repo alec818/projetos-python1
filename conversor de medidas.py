@@ -1,0 +1,8 @@
+n1 = int(input('digite uma medida em metros: '))
+print(n1,'metros em kilÕmetro é',n1*1000) 
+print(n1,'metros em hectômetro é',n1/100)
+print(n1,'metros em metros é',n1) 
+print(n1,'metros em decâmetro é',n1*160,9)         
+print(n1,'metros em decímetro é',n1*10) 
+print(n1,'metros em centímetro é',n1*100) 
+print(n1,'metros em milímetro é',n1*1000) 
